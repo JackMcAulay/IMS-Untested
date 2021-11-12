@@ -7,16 +7,3 @@ INSERT INTO items (`item_name`, `item_price`, `item_quantity`) VALUES ('your mot
 INSERT INTO items (`item_name`, `item_price`, `item_quantity`) VALUES ('nike airs', 40.99, 74);
 INSERT INTO orders (`fk_customer_id`) VALUES (3);
 INSERT INTO orders (`fk_customer_id`) VALUES (1);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (1,4);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (1,1);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (1,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
-INSERT INTO orders_items (`fk_order_id`,`fk_item_id`) VALUES (2,2);
